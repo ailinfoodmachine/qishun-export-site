@@ -1,0 +1,284 @@
+[
+  {
+    "slug": "steel-shot",
+    "name": "Cast Steel Shot",
+    "category": "Metal Abrasives",
+    "image": "public/images/products/steel-shot.jpg",
+    "summary": "Spherical cast steel abrasive for shot blasting, foundry sand removal and shot peening.",
+    "description": "Cast steel shot is made from steel scrap through melting, centrifugal atomization or water-jet impact forming, secondary purification, quenching, tempering and mechanical screening. It offers moderate hardness, impact resistance and stable cleaning brightness for metal workpieces.",
+    "applications": ["Shot blasting", "Casting sand removal", "Automotive gear peening", "Shipbuilding", "Pressure vessels"],
+    "specs": {
+      "Common grades": "S70-S780 / SS-0.2 to SS-2.5",
+      "Hardness": "Routine 40-50 HRC; special 52-60 HRC",
+      "Density": "Approx. 7.2 g/cm3",
+      "Standards": "SAE J827, SAE J1993, ISO 11124-3, GB/T 18838"
+    }
+  },
+  {
+    "slug": "steel-grit",
+    "name": "Cast Steel Grit",
+    "category": "Metal Abrasives",
+    "image": "public/images/products/steel-grit.png",
+    "summary": "Angular high-carbon steel grit for descaling, rust removal and aggressive surface profiling.",
+    "description": "Cast steel grit is an upgraded substitute for cast iron sand and iron sand. It is produced from high-carbon or alloy steel and provides angular cutting action, high impact resistance and consistent surface roughness.",
+    "applications": ["Steel plate pretreatment", "Foundry cleaning", "Rust removal", "Steel structure blasting", "Sandblasting rooms"],
+    "specs": {
+      "Grades": "GP, GL, GH",
+      "Size range": "G10-G120 / 0.2-2.5 mm",
+      "Hardness": "42-66 HRC",
+      "Packing": "25 kg bag available"
+    }
+  },
+  {
+    "slug": "cut-wire-shot",
+    "name": "Cut Wire Shot",
+    "category": "Metal Abrasives",
+    "image": "public/images/products/cut-wire-shot.png",
+    "summary": "Precisely cut wire abrasive for long service life and controlled peening intensity.",
+    "description": "Cut wire shot is made from cold-drawn steel wire and can be supplied in cylindrical or conditioned rounded forms. Its dense structure and uniform grain size make it suitable for repeated use in blasting and peening equipment.",
+    "applications": ["Casting cleaning", "Steel derusting", "Aerospace component peening", "Shot blasting machines"],
+    "specs": {
+      "Materials": "High carbon steel, low carbon steel, stainless steel",
+      "Shape": "As-cut cylindrical or conditioned rounded",
+      "Service life": "Long cyclic life under suitable equipment settings"
+    }
+  },
+  {
+    "slug": "conditioned-cut-wire-shot",
+    "name": "Conditioned Cut Wire Shot",
+    "category": "Metal Abrasives",
+    "image": "public/images/products/conditioned-cut-wire-shot.png",
+    "summary": "Rounded high-manganese cut wire media for bright, uniform surface finishing.",
+    "description": "Conditioned cut wire shot is produced by wire drawing, cutting and rounding. It has a bright cylindrical or rounded appearance, balanced hardness and controlled consumption during use.",
+    "applications": ["Gear descaling", "Spring treatment", "Screw finishing", "Stainless steel matte finishing"],
+    "specs": {
+      "Process": "Drawing, cutting, rounding",
+      "Finish": "Bright metallic matte effect",
+      "Structure": "No pores, resistant to breakage"
+    }
+  },
+  {
+    "slug": "stainless-steel-shot",
+    "name": "Stainless Steel Shot",
+    "category": "Stainless Abrasives",
+    "image": "public/images/products/stainless-steel-shot.png",
+    "summary": "Low-dust stainless shot for non-ferrous and stainless workpiece surface treatment.",
+    "description": "Stainless steel shot is made by stainless wire cutting and rounding or atomized melting. It provides long life, low dust and clean finishing on non-ferrous metals and stainless workpieces.",
+    "applications": ["Aluminum parts", "Stainless steel castings", "Decorative hardware", "Clean blasting"],
+    "specs": {
+      "Common materials": "201, 304, 410, 430",
+      "Hardness": "Approx. 308-509 HV",
+      "Density": "Approx. 7.8 g/cm3"
+    }
+  },
+  {
+    "slug": "lost-foam-sand",
+    "name": "Lost Foam Casting Sand",
+    "category": "Foundry Materials",
+    "image": "public/images/products/lost-foam-sand.png",
+    "summary": "Dry filling sand for lost foam casting molds and vapor pattern support.",
+    "description": "Lost foam casting sand fills and surrounds foam patterns, supporting the mold cavity and helping gases escape when molten metal vaporizes the pattern.",
+    "applications": ["Lost foam casting", "Mold support", "Gas evacuation", "Foundry production"],
+    "specs": {
+      "Use": "Dry sand filling around foam patterns",
+      "Function": "Prevent cavity collapse and support vapor escape"
+    }
+  },
+  {
+    "slug": "aluminum-shot",
+    "name": "Aluminum Shot",
+    "category": "Non-ferrous Abrasives",
+    "image": "public/images/products/aluminum-shot.png",
+    "summary": "Soft non-ferrous shot for polishing copper, aluminum and delicate metal parts.",
+    "description": "Aluminum shot is manufactured from aluminum alloy with uniform particle size and moderate hardness. It cleans and polishes non-ferrous workpieces without aggressive base material damage.",
+    "applications": ["Aluminum parts polishing", "Copper workpieces", "Metallurgical refining", "Non-ferrous finishing"],
+    "specs": {
+      "Diameter": "0.1-15 mm available",
+      "Material": "Aluminum alloy",
+      "Feature": "Moderate hardness"
+    }
+  },
+  {
+    "slug": "copper-shot",
+    "name": "Copper Shot",
+    "category": "Non-ferrous Abrasives",
+    "image": "public/images/products/copper-shot.png",
+    "summary": "Golden copper media for strengthening, matte finishing and color enhancement.",
+    "description": "Copper shot is refined through drawing, cutting and rounding. It is used where a warm metallic surface effect and gentle strengthening are required.",
+    "applications": ["Valves", "Electrical fittings", "Decorative parts", "Surface color enhancement"],
+    "specs": {
+      "Appearance": "Golden round or cylindrical particles",
+      "Process": "Drawing, cutting, rounding"
+    }
+  },
+  {
+    "slug": "zinc-shot",
+    "name": "Zinc Shot",
+    "category": "Non-ferrous Abrasives",
+    "image": "public/images/products/zinc-shot.jpg",
+    "summary": "Soft zinc abrasive for deburring die cast aluminum and zinc alloy parts.",
+    "description": "Zinc shot removes burrs while protecting surface quality. It can also create a brightening and protective effect on suitable metal surfaces.",
+    "applications": ["Die casting deburring", "Aluminum alloy parts", "Zinc alloy parts", "Surface brightening"],
+    "specs": {
+      "Material": "Zinc",
+      "Feature": "Low hardness with high bulk density"
+    }
+  },
+  {
+    "slug": "brown-fused-alumina",
+    "name": "Brown Fused Alumina",
+    "category": "Non-metal Abrasives",
+    "image": "public/images/products/brown-fused-alumina.png",
+    "summary": "Durable alumina abrasive for grinding, blasting and refractory aggregate use.",
+    "description": "Brown fused alumina is a widely used artificial abrasive with high hardness, good toughness and efficient cost performance.",
+    "applications": ["Grinding wheels", "Abrasive belts", "Sandblasting", "Refractory materials"],
+    "specs": {
+      "Main component": "Aluminum oxide",
+      "Color": "Brown",
+      "Feature": "High hardness and toughness"
+    }
+  },
+  {
+    "slug": "white-fused-alumina",
+    "name": "White Fused Alumina",
+    "category": "Non-metal Abrasives",
+    "image": "public/images/products/white-fused-alumina.jpg",
+    "summary": "High-purity alumina abrasive for precision grinding and clean cutting.",
+    "description": "White fused alumina is made from industrial alumina with high purity. It is sharper and more brittle than brown fused alumina, reducing loading and heat during grinding.",
+    "applications": ["Precision grinding", "Tool sharpening", "Carbon steel cutting", "Advanced refractories"],
+    "specs": {
+      "Al2O3 purity": "Above 99% typical",
+      "Color": "White",
+      "Feature": "Sharp, clean cutting"
+    }
+  },
+  {
+    "slug": "glass-beads",
+    "name": "Glass Beads",
+    "category": "Non-metal Abrasives",
+    "image": "public/images/products/glass-beads.jpg",
+    "summary": "Spherical glass media for cleaning, peening and reflective material applications.",
+    "description": "Glass beads have a smooth spherical surface, chemical stability and reflective properties. They are used for cleaning, strengthening and industrial filling applications.",
+    "applications": ["Metal cleaning", "Shot peening", "Road marking reflection", "Industrial fillers"],
+    "specs": {
+      "Material": "Glass",
+      "Shape": "Spherical",
+      "Feature": "Smooth and chemically stable"
+    }
+  },
+  {
+    "slug": "silicon-carbide",
+    "name": "Silicon Carbide",
+    "category": "Non-metal Abrasives",
+    "image": "public/images/products/silicon-carbide.png",
+    "summary": "Extremely hard abrasive for cutting, grinding and high-temperature materials.",
+    "description": "Silicon carbide is synthesized at high temperature from quartz sand and petroleum coke. It offers high hardness, thermal conductivity and heat resistance.",
+    "applications": ["Metal grinding", "Brittle material cutting", "Refractory materials", "Ceramics"],
+    "specs": {
+      "Common name": "Carborundum",
+      "Feature": "High hardness and heat resistance"
+    }
+  },
+  {
+    "slug": "quartz-sand",
+    "name": "Quartz Sand",
+    "category": "Non-metal Abrasives",
+    "image": "public/images/products/quartz-sand.png",
+    "summary": "Hard silica sand for casting cores, filtration, glass and construction materials.",
+    "description": "Quartz sand is produced from natural quartz stone. Its chemical stability, hardness and temperature resistance make it a basic industrial material.",
+    "applications": ["Glass manufacturing", "Casting cores", "Water filtration", "Construction aggregate"],
+    "specs": {
+      "Main component": "Silicon dioxide",
+      "Feature": "Hard, wear resistant and chemically stable"
+    }
+  },
+  {
+    "slug": "steel-ball",
+    "name": "Steel Ball",
+    "category": "Special Abrasives & Equipment",
+    "image": "public/images/products/steel-ball.png",
+    "summary": "Wear-resistant grinding media for mills in mining, cement and metallurgy.",
+    "description": "Steel balls provide repeated impact and rolling friction in ball mills, crushing and grinding bulk materials to target particle sizes.",
+    "applications": ["Mining grinding", "Cement mills", "Power plants", "Metallurgy"],
+    "specs": {
+      "Function": "Impact and grinding media",
+      "Feature": "High hardness, wear resistance and compressive strength"
+    }
+  },
+  {
+    "slug": "magnetic-steel-pins",
+    "name": "Magnetic Steel Pins",
+    "category": "Special Abrasives & Equipment",
+    "image": "public/images/products/magnetic-steel-pins.jpg",
+    "summary": "Fine magnetic pins for polishing, deburring and hard-to-reach finishing.",
+    "description": "Magnetic steel pins combine fine probe-like geometry with magnetic movement, supporting efficient polishing and cleaning of small or complex parts.",
+    "applications": ["Precision polishing", "Deburring", "Small part cleaning", "Jewelry and hardware finishing"],
+    "specs": {
+      "Shape": "Fine steel pins",
+      "Feature": "Magnetic movement and flexible contact"
+    }
+  },
+  {
+    "slug": "butterfly-steel-ball",
+    "name": "Butterfly Steel Ball",
+    "category": "Special Abrasives & Equipment",
+    "image": "public/images/products/butterfly-steel-ball.jpg",
+    "summary": "Special steel ball assembly for manual adjustment and low-friction positioning.",
+    "description": "Butterfly steel ball is a non-standard fastener integrating a steel ball with a butterfly nut for frequent manual linear adjustment applications.",
+    "applications": ["Furniture fittings", "Instruments", "Manual adjustment mechanisms"],
+    "specs": {
+      "Type": "Non-standard fastener",
+      "Feature": "Manual adjustment with low friction"
+    }
+  },
+  {
+    "slug": "emery",
+    "name": "Emery",
+    "category": "Non-metal Abrasives",
+    "image": "public/images/products/emery.png",
+    "summary": "Hard mineral abrasive for grinding, blasting and wear-resistant surfaces.",
+    "description": "Emery is supplied for durable surface treatment and grinding applications where high hardness and abrasive action are required.",
+    "applications": ["Grinding", "Blasting", "Wear-resistant flooring", "Surface preparation"],
+    "specs": {
+      "Feature": "High hardness mineral abrasive"
+    }
+  },
+  {
+    "slug": "shot-collection-cart",
+    "name": "Shot Collection Cart",
+    "category": "Special Abrasives & Equipment",
+    "image": "public/images/products/shot-collection-cart.jpg",
+    "summary": "Equipment for collecting and recycling steel shot in blasting workshops.",
+    "description": "Shot collection carts help recover used steel shot from workshop floors through magnetic or vacuum collection systems, improving recycling efficiency and reducing manual cleaning.",
+    "applications": ["Shot blasting workshops", "Steel structure factories", "Shipyards", "Foundries"],
+    "specs": {
+      "Function": "Abrasive recovery and workshop cleaning",
+      "Feature": "Improves recycling rate"
+    }
+  },
+  {
+    "slug": "shot-blasting-machine",
+    "name": "Shot Blasting Machine & Parts",
+    "category": "Special Abrasives & Equipment",
+    "image": "public/images/products/shot-blasting-machine.jpg",
+    "summary": "Shot blasting machine, impeller, blade, motor and sandblasting accessories.",
+    "description": "Qishun supplies abrasive media together with related shot blasting machine parts and sandblasting accessories for integrated surface treatment requirements.",
+    "applications": ["Abrasive blasting lines", "Surface preparation", "Equipment maintenance", "Spare parts sourcing"],
+    "specs": {
+      "Available items": "Motor, impeller, blade, sandblasting machine, blasting tank accessories"
+    }
+  },
+  {
+    "slug": "atomized-stainless-shot",
+    "name": "Atomized Stainless Steel Shot",
+    "category": "Stainless Abrasives",
+    "image": "public/images/products/atomized-stainless-shot.jpg",
+    "summary": "Atomized stainless media for clean finishing and low-contamination blasting.",
+    "description": "Atomized stainless steel shot is suitable for clean blasting needs where stainless composition, lower contamination and controlled spherical particles are required.",
+    "applications": ["Stainless workpieces", "Clean finishing", "Non-ferrous parts", "Low-contamination blasting"],
+    "specs": {
+      "Materials": "201 / 304 stainless options",
+      "Shape": "Atomized spherical particles"
+    }
+  }
+]

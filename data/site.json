@@ -1,0 +1,47 @@
+{
+  "brand": "Qishun Metal Abrasives",
+  "legalName": "Shandong Qishun Metal Abrasives Co., Ltd",
+  "tagline": "Metal abrasive manufacturer for shot blasting, surface preparation and foundry cleaning",
+  "email": "z15588869611@sina.com",
+  "phone": "+86 155 8886 9611",
+  "phoneRaw": "+8615588869611",
+  "whatsapp": "+86 155 8886 9611",
+  "whatsappRaw": "8615588869611",
+  "whatsappQr": "public/images/contact/whatsapp-qr.jpg",
+  "address": "Qingyang Town, Zouping County, Binzhou City, Shandong Province, China",
+  "domain": "https://www.qishunabrasives.com",
+  "formEndpoint": "https://formsubmit.co/z15588869611@sina.com",
+  "metrics": [
+    {
+      "value": "100,000",
+      "label": "tons annual capacity"
+    },
+    {
+      "value": "60+",
+      "label": "specifications"
+    },
+    {
+      "value": "20+",
+      "label": "export countries & regions"
+    },
+    {
+      "value": "ISO 9001",
+      "label": "quality system"
+    }
+  ],
+  "markets": ["Foundry", "Shipbuilding", "Automotive", "Steel structure", "Container", "Mining", "Aerospace", "Pressure vessel"],
+  "advantages": [
+    {
+      "title": "Stable abrasive performance",
+      "body": "Products are produced with medium-frequency induction furnaces, centrifugal atomization, secondary quenching, tempering, rounding, screening and packaging."
+    },
+    {
+      "title": "Testing-led quality control",
+      "body": "Fatigue life testing and direct-reading spectrometer analysis support batch consistency, chemical composition control and SAE-aligned quality."
+    },
+    {
+      "title": "Customized processing support",
+      "body": "Qishun follows customer processing progress throughout production and responds to product feedback within 24 hours."
+    }
+  ]
+}
