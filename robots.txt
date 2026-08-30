@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://www.qishunabrasives.com/sitemap.xml
+Sitemap: https://qishunabrasives.com/sitemap.xml

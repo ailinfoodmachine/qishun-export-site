@@ -453,7 +453,7 @@ function renderProducts() {
             <div class="category">${text.category}</div>
             <h3>${text.name}</h3>
             <p>${text.summary}</p>
-            <button class="text-link" type="button" data-product="${product.slug}">${t("actions.viewDetails")}</button>
+            <a class="text-link" href="products/${product.slug}.html">${t("actions.viewDetails")}</a>
           </div>
         </article>
       `;
