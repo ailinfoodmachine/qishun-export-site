@@ -5,7 +5,6 @@ const [site, products] = await Promise.all([
 
 const languages = [
   { code: "en", label: "English", dir: "ltr" },
-  { code: "zh", label: "中文", dir: "ltr" },
   { code: "es", label: "Español", dir: "ltr" },
   { code: "fr", label: "Français", dir: "ltr" },
   { code: "de", label: "Deutsch", dir: "ltr" },
@@ -311,7 +310,7 @@ const marketLabels = {
 };
 
 const state = {
-  language: localStorage.getItem("qishun-language") || "en",
+  language: languages.some((item) => item.code === localStorage.getItem("qishun-language")) ? localStorage.getItem("qishun-language") : "en",
   category: "All",
   query: ""
 };

@@ -13,7 +13,7 @@ const requiredFiles = [
   "data/site.json",
   "data/products.json",
   "public/images/hero/abrasives.webp",
-  "public/images/contact/whatsapp-qr.jpg",
+  "public/images/contact/whatsapp-qr.png",
   ...products.map((product) => product.image)
 ];
 
